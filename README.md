@@ -46,6 +46,9 @@ Me chamo Daniel Nathan, tenho 20 anos. Atualmente, estou cursando Análise e Des
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danithan&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danithan&layout=compact&theme=dark)
+<a href="https://github.com/Danithan/Danithan">
+  <img height="180em" src="./profile/stats.svg" />
+</a>
+<a href="https://github.com/Danithan/Danithan">
+  <img height="180em" src="./profile/languages.svg" />
+</a>
