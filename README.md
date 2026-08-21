@@ -2,7 +2,13 @@
 
 **`Estudante de ADS`**
 
-Me chamo Daniel Nathan, tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC e estou buscando aperfeiçoar minha habilidades com BackEnd, Cloud e dados.
+Me chamo Daniel Nathan, tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC, com foco em BackEnd, Cloud e dados — colocando essas habilidades em prática em projetos com propósito real.
+
+---
+
+### 🚀 Projeto em destaque
+
+**[Projeto LB](https://github.com/Danithan/Projeto-LB)** — aplicação web em Django para apoiar sessões de atendimento psicopedagógico/terapêutico infantil: cadastro de crianças, catálogo de sessões e exercícios interativos, acompanhamento de desempenho e exportação de relatórios em PDF.
 
 ---
 
@@ -26,11 +32,11 @@ Me chamo Daniel Nathan, tenho 20 anos. Atualmente, estou cursando Análise e Des
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
@@ -39,6 +45,22 @@ Me chamo Daniel Nathan, tenho 20 anos. Atualmente, estou cursando Análise e Des
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br/>
