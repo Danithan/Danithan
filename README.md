@@ -17,7 +17,7 @@ Me chamo Daniel Nathan, tenho 21 anos e moro em São José dos Campos. Curso Eng
 | **[Projeto LB](https://github.com/Danithan/Projeto-LB)** | App web para sessões de atendimento psicopedagógico infantil: cadastro de crianças, exercícios interativos, acompanhamento de desempenho e relatórios em PDF | Python, Django |
 | **[AWS Game Server Infrastructure](https://github.com/Danithan/AWS-Minecraft-server)** | Template para hospedar servidores de jogos na AWS (Minecraft com Forge, NeoForge e Fabric), com scripts de instalação e backup | AWS, Linux, Shell |
 | **[API 2026.1](https://github.com/JavaliCoders/API-2026-1)** | Projeto Integrador do 2º semestre de ADS na FATEC, feito em equipe | Java |
-| **[Plataforma Scrum](https://github.com/Danithan/plataforma-scrum-api-2025.2)** | Projeto Integrador do 1º semestre de ADS (equipe 404: Team Not Found) | Python, Flask |
+| **[Plataforma Scrum](https://github.com/PigeonsCode/Equipe-PigeonCode)** | Projeto Integrador do 1º semestre de ADS (Equipe Pigeon Code) | Python, Flask |
 
 ---
 
