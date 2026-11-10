@@ -4,7 +4,7 @@
 
 Me chamo Daniel Nathan, tenho 21 anos e moro em São José dos Campos. Curso Engenharia da Computação na UNIVAP e gosto de IA, Back end e dados, sempre aplicados em projetos com propósito real.
 
-- ✈️ Estagiário de TI na **Embraer**, na área de Planejamento de Produção, trabalhando com automação, desenvolvimento de softawares e IA
+- ✈️ Estagiário de TI na **Embraer**, na área de Planejamento de Produção, trabalhando com automação, desenvolvimento de softwares e IA
 - 🛰️ Bolsista PIBIC/CNPq no **IEAv/DCTA**, no projeto PEmSE (Planejamento para Emprego de Sistemas Espaciais), pesquisando aprendizado por reforço profundo aplicado
 - 🎓 Antes, cursei 2 semestres de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos
 
@@ -17,7 +17,7 @@ Me chamo Daniel Nathan, tenho 21 anos e moro em São José dos Campos. Curso Eng
 | **[Projeto LB](https://github.com/Danithan/Projeto-LB)** | App web para sessões de atendimento psicopedagógico infantil: cadastro de crianças, exercícios interativos, acompanhamento de desempenho e relatórios em PDF | Python, Django |
 | **[AWS Game Server Infrastructure](https://github.com/Danithan/AWS-Minecraft-server)** | Template para hospedar servidores de jogos na AWS (Minecraft com Forge, NeoForge e Fabric), com scripts de instalação e backup | AWS, Linux, Shell |
 | **[API 2026.1](https://github.com/JavaliCoders/API-2026-1)** | Projeto Integrador do 2º semestre de ADS na FATEC, feito em equipe | Java |
-| **[Plataforma Scrum](https://github.com/PigeonsCode/Equipe-PigeonCode)** | Projeto Integrador do 1º semestre de ADS (Equipe Pigeon Code) | Python, Flask |
+| **[Automação de Dashboards BI](https://github.com/Danithan/Automacao-de-Dashboards-BI)** | Automação e sustentação de três dashboards de melhoria contínua no estágio da Embraer: coleta e publicação de dados no SharePoint, KPIs em DAX e monitoramento de prazos | Power BI, DAX, Power Query, Python, SharePoint |
 
 ---
 
